@@ -3,6 +3,11 @@ body {
 	font-family: arial;
 }
 
+header h3{
+	background-color: teal;
+	color: white;
+	padding: 5px;
+}
 h1 {
 	background-color: black;
 	color: white;
@@ -36,7 +41,7 @@ h2 {
 }
 .fa-envelope{
 	font-family: arial;
-	font-size:40px;
+	font-size:36px;
 	color:midnightblue;
 }
 .fa-github{
