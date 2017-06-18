@@ -1,5 +1,49 @@
 body {
-	background: #999;
+	background: gainsboro;
 	font-family: arial;
 }
 
+h1 {
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
+h2 {
+	background-color: dimgray;
+	color: white;
+	padding: ;
+}
+#about-me h3 {
+	background-color: teal;
+	color: white;
+	padding: 5px;
+}
+#projects h3 {
+	background-color: navy;
+	color: white;
+	padding: 5px;
+}
+#main-footer {
+	font-size: 12;
+	background-color: lavender;
+	color: blueviolet;
+	padding: 5px;
+}
+.fa-phone-square{
+	font-family: arial;
+	font-size:36px;
+	color:darkgreen;
+}
+.fa-envelope{
+	font-family: arial;
+	font-size:40px;
+	color:midnightblue;
+}
+.fa-github{
+	font-size:36px;
+	color:black;
+}
+.fa-linkedin-square{
+	font-size:36px; 
+	color:darkblue;
+}
