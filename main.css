@@ -36,16 +36,20 @@ h2 {
 	color: blueviolet;
 	padding: 5px;
 }
+/*!-- CONTACT INFO --*/
 .fa-phone-square{
-	font-family: arial;
-	font-size:36px;
+	color:darkgreen;
+}
+#phone-number{
 	color:darkgreen;
 }
 .fa-envelope{
-	font-family: arial;
-	font-size:36px;
 	color:midnightblue;
 }
+#email-address{
+	color:midnightblue;
+}
+/*!-- NETWORK LINKS --*/
 .fa-github{
 	font-size:36px;
 	color:black;
@@ -54,3 +58,7 @@ h2 {
 	font-size:36px; 
 	color:darkblue;
 }
+/*#Contact{
+		font-family: arial;
+
+}*/
