@@ -8,35 +8,33 @@ header h3{
 	color: white;
 	padding: 5px;
 }
+
 h1 {
 	text-align:center;
 	background-color: black;
 	color: white;
 	padding: 10px;
 }
+
 h2 {
 	background-color: dimgray;
 	color: white;
 	padding: ;
 }
+
 #about-me h3 {
 	background-color: teal;
 	color: white;
 	padding: 5px;
 }
+
 #projects h3 {
 	background-color: navy;
 	color: white;
 	padding: 5px;
 }
-#main-footer {
-	text-align:center;
-	font-size: 12;
-	background-color: lavender;
-	color: blueviolet;
-	padding: 5px;
-}
-/*!-- CONTACT INFO --*/
+
+/*-- CONTACT INFO --*/
 .fa-phone-square{
 	color:darkgreen;
 }
@@ -49,7 +47,7 @@ h2 {
 #email-address{
 	color:midnightblue;
 }
-/*!-- NETWORK LINKS --*/
+/*-- NETWORK LINKS --*/
 .fa-github{
 	font-size:36px;
 	color:black;
@@ -58,7 +56,11 @@ h2 {
 	font-size:36px; 
 	color:darkblue;
 }
-/*#Contact{
-		font-family: arial;
-
-}*/
+/* -- FOOTER -- */
+#main-footer {
+	text-align:center;
+	font-size: 12;
+	background-color: lavender;
+	color: blueviolet;
+	padding: 5px;
+}
